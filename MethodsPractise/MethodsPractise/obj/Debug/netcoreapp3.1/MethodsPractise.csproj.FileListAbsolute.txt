@@ -1,0 +1,14 @@
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.exe
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.deps.json
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.runtimeconfig.json
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.runtimeconfig.dev.json
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.dll
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\bin\Debug\netcoreapp3.1\MethodsPractise.pdb
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.csproj.AssemblyReference.cache
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.AssemblyInfoInputs.cache
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.AssemblyInfo.cs
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.csproj.CoreCompileInputs.cache
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.dll
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.pdb
+C:\Users\faiqi\source\repos\MethodsPractise\MethodsPractise\obj\Debug\netcoreapp3.1\MethodsPractise.genruntimeconfig.cache
